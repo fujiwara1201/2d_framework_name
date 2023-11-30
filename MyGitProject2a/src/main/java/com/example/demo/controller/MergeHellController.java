@@ -11,7 +11,7 @@ public class MergeHellController {
 		for (int i = 1; i <= 10; i++) {
 			System.out.println("現在" + i + "回目のループです");
 		}
-
+	}
 	static void kadaiC() {
 	//ここに課題を書く。メソッド名変えてね。
 	int a = 50;
